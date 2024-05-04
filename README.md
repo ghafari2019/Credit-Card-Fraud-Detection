@@ -1,39 +1,39 @@
 # Credit-Card-Fraud-Detection
-In this data science project, we will predict the credit card fraud in the transactional dataset using some of the predictive models. 
+## In this data science project, we will predict the credit card fraud in the transactional dataset using some of the predictive models. 
 
 
-Understanding the problem
+* Understanding the problem
 
-Importing required libraries and understanding their use
+* Importing required libraries and understanding their use
 
-Importing data and learning its structure
+* Importing data and learning its structure
 
-Performing basic EDA
+* Performing basic EDA
 
-Scaling different variables
+* Scaling different variables
 
-Outlier treatment
+* Outlier treatment
 
-Building a basic Classification model with Random Forest
+* Building a basic Classification model with Random Forest
 
-Nearmiss technique for undersampling data
+* Nearmiss technique for undersampling data
 
-SMOTE for oversampling data
+* SMOTE for oversampling data
 
-cross-validation in the context of undersampling and oversampling
+* cross-validation in the context of undersampling and oversampling
 
-Pipelining with sklearn/imblearn
+* Pipelining with sklearn/imblearn
 
-Applying Linear model: Logistic Regression
+* Applying Linear model: *Logistic Regression*
 
-Applying Ensemble technique: Random Forest
+* Applying Ensemble technique:  *Random Forest*
 
-Applying Non-Linear Algorithms: Support Vector Machine, Decision Tree, and k-Nearest Neighbour
+* Applying Non-Linear Algorithms: *Support Vector Machine, Decision Tree, and k-Nearest Neighbour*
 
-Making predictions on test sets and computing validation metrics
+* Making predictions on test sets and computing validation metrics
 
-ROC curve and Learning curve
+* ROC curve and Learning curve
 
-Comparison of Results and Model Selection
+* Comparison of Results and Model Selection
 
-Visualization with seaborn and matplotlib 
+* Visualization with seaborn and matplotlib 
